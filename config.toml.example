@@ -1,0 +1,5 @@
+[Griddy]
+# url = 'https://app.gogriddy.com/api/v1/insights/getnow'
+meterid = '1234'
+memberid = 'uuid'
+settlement = 'LZ_HOUSTON'
